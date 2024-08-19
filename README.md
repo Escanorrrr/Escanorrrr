@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-My name is Ramazan. I am a student at Anadolu University. I am studying management information system. I am trying to learn software systems. I learned .Net Core and I'm trying to do .Net Core related projects. I love learning about software. I want to be a Senior Developer in the future and I want to make my own venture.
+I am a graduate of Anadolu University with a degree in Management Information Systems. I am also pursuing
+a master's degree in Management Information Systems at Uludağ University, and in addition, I am studying
+Computer Programming at the Open Education Faculty of Anadolu University. My passion for computer
+science and technology has been present since my childhood, and this love has led me to pursue a career in
+the IT and software industry.
 
 
-Technologies: FluentValidation , AutoFac , JWT Web Token.
+Technologies: C# , .Net , Python, PostgreSQL , MSSQL ,HTML
 Languages: English: B2, : 
 Programming resources used for self-learning: Stack Overflow , Udemy ,w3schools,Free Code Camp.
 
@@ -17,10 +21,10 @@ Programming resources used for self-learning: Stack Overflow , Udemy ,w3schools,
 
 
 
-- 🔭 I’m currently working on my bootcamp
-- 🌱 I’m currently learning 😂
-- 🤔 I’m using .Net Core and I’m learning Java and Spring .
-- 🥅 2023 Goals: Developing an app to be heard in the world 🌎 and I want find a job 😂
+- 🔭 I’m focus my education
+- 🌱 I'm new to Python, so I'm currently learning Python for data analysis.
+- 🤔 I'm looking for new job opportunity because I'm still hungry for learning
+
 
 
 [![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramazan-fehmi-ay-85949b230/)
