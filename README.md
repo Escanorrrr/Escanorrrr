@@ -10,7 +10,7 @@ I work with software components such as C#/.NET, Python, HTML/CSS, JavaScript, a
 Technologies: C# , .Net , Python, PostgreSQL , MSSQL ,HTML/CSS/
 
 
-Languages: English: B2 : 
+Languages: English: B2  
 
 
 
