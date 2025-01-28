@@ -7,10 +7,10 @@ My passion for computer science and technology has been with me since childhood,
 I work with software components such as C#/.NET, Python, HTML/CSS, JavaScript, and SQLite/PostgreSQL, and I continue to improve myself in these areas. Currently, I am developing backend services using .NET at a company and actively teaching Python as an instructor.
 
 
-Technologies: C# , .Net , Python, PostgreSQL , MSSQL ,HTML/CSS/
+Technologies: C# , .Net , Python, PostgreSQL , MSSQL ,HTML/CSS/ , MVC
 
 
-Languages: English: B2  
+Languages: English: Fluent
 
 
 
